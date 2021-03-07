@@ -1,0 +1,16 @@
+.shop_con {
+  display: flex;
+}
+.shop_list {
+  width: 75%;
+  margin: 0 20px;
+  padding: 10px;
+  border-right: 1px solid lightgray;
+}
+.product_con {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+}
+.img_con {
+  margin: 5px 10px 5px 0;
+}
